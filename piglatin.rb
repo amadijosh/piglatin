@@ -29,19 +29,5 @@ translate("quiet")
 translate("square")
 translate("square")
 translate("the quick brown fox")
-# words = translate("Welcome to africa you quagmain qarth")
-# vowelpattern = /(^[aeiou]+)/im
-# consonantpattern = /(^[^aeiouq]+)/im
-# consonantqpattern = /(^[^aeiouq]*qu?)/im
-# words.each do |word|
-# 	if( word =~ vowelpattern)
-# 		puts word + "ay "
-# 	elsif (word =~ consonantpattern)
-# 		consonant = word[consonantpattern]
-# 		puts word.gsub(consonantpattern,'') + consonant + "ay"
-# 	elsif (word =~ consonantqpattern)
-# 		consonant = word[consonantqpattern]
-# 		puts word.gsub(consonantqpattern,'') + consonant + "ay"
-# 	end
-# end
+
 
